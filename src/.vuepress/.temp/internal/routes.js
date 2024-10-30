@@ -22,20 +22,3 @@ export const routes = Object.fromEntries([
   ["/Air/JC/", { loader: () => import(/* webpackChunkName: "Air_JC_index.html" */"E:/桌面/编程实例/易语言实例/Hakutaku/Doc/HakutakuDoc/src/.vuepress/.temp/pages/Air/JC/index.html.js"), meta: {"t":"JC"} }],
   ["/Pro/JC/", { loader: () => import(/* webpackChunkName: "Pro_JC_index.html" */"E:/桌面/编程实例/易语言实例/Hakutaku/Doc/HakutakuDoc/src/.vuepress/.temp/pages/Pro/JC/index.html.js"), meta: {"t":"JC"} }],
 ]);
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updateRoutes) {
-    __VUE_HMR_RUNTIME__.updateRoutes(routes)
-  }
-  if (__VUE_HMR_RUNTIME__.updateRedirects) {
-    __VUE_HMR_RUNTIME__.updateRedirects(redirects)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ routes, redirects }) => {
-    __VUE_HMR_RUNTIME__.updateRoutes(routes)
-    __VUE_HMR_RUNTIME__.updateRedirects(redirects)
-  })
-}
