@@ -11,6 +11,10 @@ actions:
     icon: lightbulb
     link: ./Air/
 
+  - text: Elaina’sBot
+    icon: lightbulb
+    link: ./Pro/  
+  
 copyright: false
 footer: 使用 知识共享署名CCBY4.0协议共享 | MIT 协议, 版权所有 © 2019-至今 叱咤月海鱼鱼猫
 
