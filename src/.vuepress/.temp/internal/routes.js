@@ -21,6 +21,8 @@ export const routes = Object.fromEntries([
   ["/404.html", { loader: () => import(/* webpackChunkName: "404.html" */"E:/桌面/编程实例/易语言实例/Hakutaku/Doc/HakutakuDoc/src/.vuepress/.temp/pages/404.html.js"), meta: {"t":""} }],
   ["/Air/JC/", { loader: () => import(/* webpackChunkName: "Air_JC_index.html" */"E:/桌面/编程实例/易语言实例/Hakutaku/Doc/HakutakuDoc/src/.vuepress/.temp/pages/Air/JC/index.html.js"), meta: {"t":"JC"} }],
   ["/Pro/JC/", { loader: () => import(/* webpackChunkName: "Pro_JC_index.html" */"E:/桌面/编程实例/易语言实例/Hakutaku/Doc/HakutakuDoc/src/.vuepress/.temp/pages/Pro/JC/index.html.js"), meta: {"t":"JC"} }],
+  ["/Pro/JC/Update.html", { loader: () => import(/* webpackChunkName: "Pro_JC_Update.html" */"E:/桌面/编程实例/易语言实例/Hakutaku/Doc/HakutakuDoc/src/.vuepress/.temp/pages/Pro/JC/Update.html.js"), meta: {"t":"框架更新","i":"lightbulb"} }],
+  ["/Res/zy/gyqm.html", { loader: () => import(/* webpackChunkName: "Res_zy_gyqm.html" */"E:/桌面/编程实例/易语言实例/Hakutaku/Doc/HakutakuDoc/src/.vuepress/.temp/pages/Res/zy/gyqm.html.js"), meta: {"t":"公益版签名","i":"lightbulb"} }],
 ]);
 
 if (import.meta.webpackHot) {
