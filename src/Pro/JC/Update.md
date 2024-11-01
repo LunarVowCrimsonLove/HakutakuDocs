@@ -14,7 +14,7 @@ icon: lightbulb
 - 新增获取群文件下载链接
 - 新增修复视频发送，语音发送，图片发送
 - 新增手表本地签名入口
-[点我下载](https://github.com/LunarVowCrimsonLove/ElainaBot/releases/download/1.1.2/Elaina.sBot.11.1.zip)
+- [点我下载](https://github.com/LunarVowCrimsonLove/ElainaBot/releases/download/1.1.2/Elaina.sBot.11.1.zip)
 :::
 
 
