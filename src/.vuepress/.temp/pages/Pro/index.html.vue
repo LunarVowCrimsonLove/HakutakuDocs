@@ -12,6 +12,7 @@
 <li><RouteLink to="/Pro/JC/ffmpeg.html">语音转码库部署</RouteLink></li>
 <li><RouteLink to="/Pro/JC/PlugnApiLicence.html">插件Api许可证获取</RouteLink></li>
 <li><RouteLink to="/Pro/JC/NewApi.html">新增Api接口文档</RouteLink></li>
+<li><RouteLink to="/Pro/JC/Update.html">框架更新</RouteLink></li>
 <li><RouteLink to="/Pro/JC/FAQ.html">常见问题解决</RouteLink></li>
 </ul>
 </div></template>

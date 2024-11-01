@@ -15,6 +15,10 @@ actions:
     icon: lightbulb
     link: ./Pro/  
   
+  - text: 辅助资源
+    icon: lightbulb
+    link: ./Res/  
+
 copyright: false
 footer: 使用 知识共享署名CCBY4.0协议共享 | MIT 协议, 版权所有 © 2019-至今 叱咤月海鱼鱼猫
 
