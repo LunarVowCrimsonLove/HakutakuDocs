@@ -15,6 +15,10 @@
 <p>请在框架内更换算法。</p>
 <h2 id="八、打开框架显示特定文件缺失" tabindex="-1"><a class="header-anchor" href="#八、打开框架显示特定文件缺失"><span>八、打开框架显示特定文件缺失</span></a></h2>
 <p>请下载特定的文件并拖到框架文件目录。</p>
+<h2 id="九、用户端充值显示充值卡密不存在" tabindex="-1"><a class="header-anchor" href="#九、用户端充值显示充值卡密不存在"><span>九、用户端充值显示充值卡密不存在</span></a></h2>
+<p>检查用户端的当前项目配置，是否正确，为您所使用的卡密的项目
+Elaina开头的卡密选择Elaina’sBot
+lz开头的卡密选择hakutaku</p>
 </div></template>
 
 

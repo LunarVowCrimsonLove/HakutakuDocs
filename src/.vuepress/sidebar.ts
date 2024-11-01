@@ -64,6 +64,10 @@ export default sidebar({
               "link": "/Pro/JC/NewApi.md"
           },
           {
+            "text": "框架更新",
+            "link": "/Pro/JC/Update.md"
+        },
+          {
             "text": "常见问题与解决方案",
             "link": "/Pro/JC/FAQ.md"
         }
