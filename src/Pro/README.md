@@ -15,4 +15,5 @@ icon: lightbulb
 - [语音转码库部署](JC/ffmpeg.md)
 - [插件Api许可证获取](JC//PlugnApiLicence.md)
 - [新增Api接口文档](JC/NewApi.md)
+- [框架更新](JC/Update.md)
 - [常见问题解决](JC/FAQ.md)
